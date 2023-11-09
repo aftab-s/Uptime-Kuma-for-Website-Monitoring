@@ -41,7 +41,7 @@ services:
 
 ```
 
-3. Rum the Docker Container
+3. Run the Docker Container
 
 ```
 sudo docker-compose up -d
